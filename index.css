@@ -1,0 +1,615 @@
+   
+            body{
+                    background-image:url(gamig3.jpg) ;
+                    background-repeat: no-repeat;
+                    
+                    
+                   
+                    background-size:cover;
+                    
+                  }
+                 p{
+                    font-family: janna lt;
+                  }
+                  *{
+                    color: white;
+                  }
+                  h1{
+                    font-family: techno race;
+                  }
+                  h2{
+                    font-family: janna lt;
+                    
+                  }
+                  ol{
+                    font-family: valorant;
+                  
+                  }
+                  
+                  .prr , .perr{
+                    font-size: large;
+                  }
+      
+                  a{
+                         color: white;
+                     }
+      
+                                  
+      
+          a:hover{
+                      color: #cc3939;
+                    }
+                    .Fortnite{
+                      background-image: url(wallpapersdefort.png) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    
+                    font-size:large; 
+                    position: center;
+                    font-size: xx-large;
+       
+                    }
+                    .fort,.fortn{
+                      color: #03305e;
+                      font-size: medium;
+                  
+                    }
+                    .a2{
+                      color: white;
+                    }
+                    .a2:hover{
+                      color: #03305e;
+                    }
+                    .ppp{
+                      font-size: large;
+                    }
+                    .Apex{
+                      background-image: url(apex.png) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size:large; 
+                    position: center;
+                    font-size: xx-large;
+                    color: #180809;
+                      
+                    }
+                    .papex,.p2apex{
+                      font-size: large;
+                      color: #d34750;
+                    }
+                    .p3apex{
+                      font-size: large;
+                    }
+                    .a3{
+                      color: white;
+                    }
+                    .a3:hover{
+                      color: #d34750;
+                    }
+                    .pubg{
+                      background-image: url(PUBG-sistem-gereksinimleri.png) ;
+                    width:200; 
+                    border: 10px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    
+                    font-size:large; 
+                    position: center;
+                    font-size: xx-large;
+                    }
+                    .pubg2,.pubg3{
+                      font-size: large;
+                    }
+                    .pubg4{
+                      font-size: large;
+                    
+                    }
+                    .apupg{
+                      color: white;
+                    }
+                    .apubg:hover{
+                      color: #eba313;
+                      
+                    }
+                    .call{
+                      background-image: url(call.png) ;
+                    width:50; 
+                    border: 10px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 20x;
+                    margin: 50px 30px 10px 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                  
+                    
+                    font-size:large; 
+                    position: center;
+                    font-size: xx-large;
+                    }
+                    .call2,.call3{
+                      font-size: large;
+                      color: #444039;
+                    }
+                    .callp{
+                      font-size: large;
+                    }
+                    .calla{
+                      color: white;
+                    }
+                    .calla:hover{
+                      color: #444039;
+                    }
+                    button{
+                      position: sticky;
+                      width: 200px;
+                      padding: 10px 0;
+                      text-align: center;
+                      margin: 20px 10px;
+      
+                      font-family: janna lt;
+                      font-weight: bold;
+                      
+                      border: 2px solid rgb(255, 255, 255);
+                      border-radius: 10px;
+                      background: transparent;
+                      color: rgb(250, 250, 250);
+                      cursor: pointer;
+                      overflow: hidden;
+                      text-transform: uppercase;
+                     
+                    
+                    }
+                  span{
+                    background: rgb(56, 149, 185);
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+      
+                  }
+                  button:hover span{
+      
+                    width: 100%;
+      
+                  }
+                  header{
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center 
+                    
+      
+                    
+      
+                    }
+                    header{
+                      transition: 0.6s;
+                      padding: 20px 100px;
+                      padding:  10px 0px;
+                      
+                      
+                      
+                    }
+                    .suii{
+                      position: relative;
+                      font-weight: 200;
+                      color: #fff;
+                      text-decoration: none;
+                      font-size: 25px;
+                      text-transform: uppercase;
+                      letter-spacing: 2px;
+                      transition: 0.6s;
+                      font-family: techno race;
+                      margin:  5px;
+                      
+                      
+                    }
+                   
+                    .asui{
+                      position: relative;
+                      margin:10px;
+                      text-decoration: none;
+                      color: #fff;
+                      font-family: janna lt;
+                    font-size: small;
+                    box-shadow: 0 0 10xp rgba(0, 0, 0, 0.1);
+                    
+                  
+                    }
+                    
+                    .asui:hover{
+                     filter: drop-shadow(10px 10px 10px #000000);
+                     color: white;
+                    }
+                    .suii:hover{
+                      filter: drop-shadow(5px 10px 5px #000000);
+                      color: white;
+                    }
+                    .span{
+                      background: rgb(161, 68, 68);
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                    }
+      
+                      .span2{
+                        background: rgb(243, 222, 36);
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                      }
+                      .span3{
+                        background: #363633;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                      }
+                    .call{
+                      color: #363633;
+                    }
+                    .span4{
+                      background: #512208;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                    }
+      
+             
+                .War{
+                  background-image: url(war2.png) ;
+                    width:200; 
+                    border: 10px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    font-size: xx-large;
+                } 
+                .wars{
+                  background: #9190a2;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                }
+                .enlisted{
+                    background-image: url(wallpapersden.com_enlisted_1920x1080.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 25px 10px 30px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: right;
+                    font-size: xx-large; 
+                    position: center;
+                    
+                    
+                  }
+                 .Visage{
+                  background-image: url(Visage4.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span5{
+                  background: #0a1518;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .PuppetCombo{
+                  background-image: url(ppppp.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span6{
+                  background: #921682;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .chillasart{
+                  background-image: url(maxresdefault.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span7{
+                  background: #43e63d;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .godofwar{
+                  background-image: url(god_of_war_2018-152.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span8{
+                  background: #ff2d2d;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .Uncharted{
+                  background-image: url(wallpaper_uncharted_4hh_a_thiefs_end_01_1920x1080\ copy.JPG) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span9{
+                  background: #2b3c5a;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .spider{
+                  background-image: url(wallpapersdenspider.png) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                    position: center
+                 }
+                 .span10{
+                  background: #b6404c;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .fifa{
+                  background-image: url(wallpapersdenfifa.png) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: top;
+                    font-size: xx-large; 
+                    
+                 }
+                 .span11{
+                  background: #9DB2BF;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                 }
+                 .rocket-league{
+                  background-image: url(wp1854300.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    background-position: center;
+                    font-size: xx-large; 
+                 }
+                 .madden{
+                  background-image: url(wallpapersden.com_efootball-2022-hd-lionel-messi_1920x1080.jpg) ;
+                    width: 100; 
+                    border: 5px solid red 20px 30px 20px 30px;
+                    
+                    
+                    padding: 30x;
+                    margin: 50px 40px 10px 0px;
+                    background-repeat: no-repeat;
+                    
+                    background-size: cover;
+                    
+                    height: 400px;
+                    border-radius: 10px; 
+                    
+                    
+                    font-size: xx-large; 
+                 }
+                 .span13{
+                  background: #000096;
+                    height: 100%;
+                    width: 0%;
+                    position: absolute;
+                    left: 0;
+                    bottom: 0;
+                    z-index: -1;
+                    transition: 0.5s;
+                }
+                
+                .log{
+                  position: relative;
+                  width: 100px;
+                  height: 50px;
+                  text-decoration: none;
+
+                }
+                .log:hover{
+                    color: #fff;
+                    box-shadow: 0 0 20 rgba(0,0,0,0.5);
+                }
+ol{
+  list-style: none;
+}
+
+@media only screen and (max-width:600px){
+
+  ol{
+          width: 100%;
+          background-image: url(gamig3.jpg);
+          margin: 0;
+          padding: 0;
+          position: absolute;
+          display: block;
+  }
+ 
+} 
+header{
+  text-align: center;
+}
